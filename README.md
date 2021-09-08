@@ -1,5 +1,6 @@
-![Screenshot 2021-09-07 weather dashboard](https://user-images.githubusercontent.com/87590712/132427906-94c0489b-1126-4371-84b6-93f08db492b9.png)
 # My-Weather-Dashboard  
+![Screenshot 2021-09-07 weather dashboard](https://user-images.githubusercontent.com/87590712/132427906-94c0489b-1126-4371-84b6-93f08db492b9.png)
+
 A dynamic weather dashboard  
 https://jtdizzle.github.io/My-Weather-Dashboard/  
 
